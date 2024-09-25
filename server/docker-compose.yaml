@@ -1,0 +1,13 @@
+version: "3.8"
+
+name: "pocket-js-server"
+
+services:
+  postgres:
+    image: bitnami/postgresql:13.16.0
+    environment:
+      POSTGRES_DB: inorbit
+      POSTGRES_USER: docker
+      POSTGRES_PASSWORD: docker
+    ports:
+      - "5432:5432"
