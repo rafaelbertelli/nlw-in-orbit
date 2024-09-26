@@ -8,7 +8,7 @@
 - [React](https://react.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-## Como rodar o frontend
+## Como rodar o servidor
 
 ```bash
 npm run dev
@@ -24,3 +24,6 @@ npm run dev
 
 ## Comandos gerais
 
+```bash
+
+```

@@ -15,3 +15,9 @@ npm run dev             # localhost:3333
 ```bash
 npm run dev             # localhost:5173
 ```
+
+## Dependências
+
+* [Docker](https://www.docker.com/get-started/)
+* [Node](https://nodejs.org/)
+* [IDE VSCode](https://code.visualstudio.com/)
